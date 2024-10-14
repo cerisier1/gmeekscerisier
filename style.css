@@ -20,7 +20,7 @@ You will find this is far easier than the opposite task of using CSS to cram you
 
 html, body { margin: 20px; 
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
-    font-size: 16px; font-family: "times new roman" ; background-color: yellowgreen;
+    font-size: 16px; font-family: "times new roman" ; background-color: darkblue;
 }
 
 .bold {font-weight:bold} 
