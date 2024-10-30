@@ -18,9 +18,9 @@ You will find this is far easier than the opposite task of using CSS to cram you
     box-sizing: border-box;
 }
 
-html, body { margin: 20px; 
+html, body { margin: 40px; 
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
-    font-size: 16px; font-family: "times new roman" ; background-color: darkblue;
+    font-size: 16px; font-family: "times new roman" ; background-color: lightblue;
 }
 
 .bold {font-weight:bold} 
